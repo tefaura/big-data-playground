@@ -1,0 +1,12 @@
+# data
+data/
+*.parquet
+
+# secrets
+.env
+
+# python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
