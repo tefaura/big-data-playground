@@ -1,5 +1,7 @@
 pandas
 pyarrow
 pytest
+s3fs
+boto3
 
 
